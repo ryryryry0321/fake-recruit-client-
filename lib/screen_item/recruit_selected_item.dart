@@ -33,7 +33,7 @@ class RecruitSelectedItem extends StatelessWidget {
       bottomNavigationBar: bottomSideContactButton(),
       body: ShaderMask(
         shaderCallback: (bounds) {
-          // グラデーションコンポーネント
+          // グラデーションコンポーネント デフォは左右方向になる
           return const LinearGradient(
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
