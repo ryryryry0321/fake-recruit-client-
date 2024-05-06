@@ -4,9 +4,8 @@ https://github.com/ryryryry0321/fake-engineer-recruit-api 's Flutter client.
 
 [入門書](https://zenn.dev/heyhey1028/books/flutter-basics)をもとに発展的にアプリケーションを作成してみました。
 
-![image](https://gist.github.com/assets/32902838/0f6a84ad-c209-4020-9dd6-cf220a9b278b)
-
-![image](https://gist.github.com/assets/32902838/e34487a7-6ee8-48bb-afab-d03e67c82918)
+![image](https://github.com/ryryryry0321/fake-recruit-client-/assets/32902838/cfc38ca0-b1b0-4676-9dcb-98ef00eb196b)
+![image](https://github.com/ryryryry0321/fake-recruit-client-/assets/32902838/57c96159-9051-4a67-956a-b2e47b2725e4)
 
 ## Getting Started
 
