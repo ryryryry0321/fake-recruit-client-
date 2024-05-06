@@ -2,8 +2,13 @@ import 'package:fakerecruit/screen_item/recruit_search_form.dart';
 import 'package:fakerecruit/service/APIConnector.dart';
 import 'package:flutter/material.dart';
 
+/**
+ * 今回は画像をダミーで指定してるけど、真面目にやるなら
+ * データモデルのカラムにimg-urlを追加でs3あげたものをセット
+ * それをImage.networkで使う
+ */
 void main() {
-  //testPrintEntity();
+  // testPrintEntity();
   runApp(const MyApp());
 }
 
@@ -11,6 +16,7 @@ void main() {
 void testPrintEntity() {
   final connector = APIConnector();
   connector.search("Rails");
+  connector.findById(56);
 }
 
 class MyApp extends StatelessWidget {

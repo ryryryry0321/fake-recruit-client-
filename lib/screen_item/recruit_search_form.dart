@@ -1,5 +1,5 @@
 import 'package:fakerecruit/model/RecruitInfo.dart';
-import 'package:fakerecruit/screen_item/recruit_item_grid.dart';
+import 'package:fakerecruit/screen_item/recruit_items_grid.dart';
 import 'package:fakerecruit/service/APIConnector.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
